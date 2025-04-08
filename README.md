@@ -12,7 +12,7 @@
   - AnyBlock 的迷你版。删除一些特性和依赖项以减小尺寸并提高性能
   - 详请见 [AnyBlock](https://github.com/any-block/obsidian-any-block) 的介绍
   - 主要删除了mermaid、plantuml、markmap相关依赖并尽量保证功能，以获得内存和加载速度的提升。
-    提升幅度参考 (v3.2.1): 尺寸 8.82MB -> 262KB, 启动时间 424ms -> 30ms
+    提升幅度参考 (v3.2.1): 尺寸 8.82MB -> 262KB, 启动时间 424ms -> 30ms / 159ms -> 5ms (视设备性能而定)
   - 该仓库仅用于插件社区的发布，源码及编译依然由 [AnyBlock](https://github.com/any-block/obsidian-any-block) 进行
 
 ## How to use mermaid/plantuml/markmap in min version
