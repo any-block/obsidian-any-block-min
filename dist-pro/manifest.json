@@ -1,9 +1,9 @@
 {
-	"id": "any-block-min",
-	"name": "AnyBlock Min",
+	"id": "any-block-pro",
+	"name": "AnyBlock Pro",
 	"version": "3.4.6",
 	"minAppVersion": "0.15.0",
-	"description": "AnyBlock min version. Remove some features and dependencies to reduce size and improve performance",
+	"description": "AnyBlock Pro version. More processor types, and some processors support visual editing.",
 	"author": "LincZero",
 	"authorUrl": "https://github.com/LincZero",
 	"fundingUrl": {
