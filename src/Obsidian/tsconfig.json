@@ -4,7 +4,8 @@
     "experimentalDecorators": true,
     "baseUrl": ".",
     "paths": {
-      "@/*": ["../../src/*"]
+      "@/ABConverter/*": ["./node_modules/@anyblock/any-block-core/*"],
+      "@/*": ["../../src/*"],
     },
     // "inlineSourceMap": true, // 否则svelete文件报错：[svelte-preprocess] Encountered type error
     // "inlineSources": true,
